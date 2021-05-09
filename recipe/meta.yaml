@@ -23,6 +23,8 @@ requirements:
     - bokeh
     - dask
     - fastparquet
+    - holoviews
+    - matplotlib
     - numba >=0.48
     - numpy
     - pandas >=1
