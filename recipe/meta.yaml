@@ -22,7 +22,7 @@ requirements:
   run:
     - bokeh
     - dask
-    - fastparquet
+    - fastparquet !=0.6.1
     - holoviews
     - matplotlib-base
     - numba >=0.48
